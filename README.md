@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Amar
+- idk what to do rn,so confuse!
 
 <!---
 Chagiyaa/Chagiyaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
