@@ -1,6 +1,5 @@
-- 👋 Hello! I'm Amar Rahman Kamal, a final year student at ITS Surabaya, majoring in Statistics. I have a strong skill set related to data analysis and data science, and I'm passionate about uncovering meaningful insights from diverse datasets. 
-Throughout my academic journey, I have gained expertise in statistical modeling, data visualization, and predictive analytics. I am adept at utilizing programming languages like Python and R to manipulate and analyze data efficiently. Additionally, I have hands-on experience with popular data analysis tools such as SQL, Excel, and Tableau.
-Currently I seeking opportunities to apply my skills and knowledge in a professional setting, so i open to collaborations and eager to work alongside like-minded professionals in the field. Feel free to reach out to me if you have any opportunities or if you would like to connect and discuss data-related topics!
+#👋 Hello! I'm Amar Rahman Kamal
+-  A Data Enthusiast proficient with R, Minitab, Tableau, and Excel to Exploratory Data Analysis and Python for Machine Learning modeling. Ability to create report from complex information. Graduate from Statistics ITS Surabaya with final GPA 3.5. Graduate from Bangkit Academy Machine Learning Path with average score 92.75 (A). One of several students who able to certified as Tensorflow Developer by Tensorflow. Currently working as Data Analyst at PT Kereta Api Indonesia with short contract till end of the year, mainly working with Postgre SQL and Tableau. Now, I am seeking new opportunities to further develop and apply the knowledge I have previously described.
 
 <!---
 Chagiyaa/Chagiyaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
